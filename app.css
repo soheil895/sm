@@ -1,0 +1,40 @@
+@font-face {
+    font-family: myFont;
+    src: url('/font/IranNastaliq.ttf') format('truetype');
+}
+
+body{
+    font-size:16px;
+    background-color: rgb(255, 239, 213);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: myFont;
+}
+div{
+    text-align: center;
+}
+form{
+    border-radius: 12px;
+    padding: 20px 28px;
+    width: 800px;
+}
+.private01{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.private02{
+    font-size: 24px;
+}
+h2{
+    font-weight: normal;
+}
+#fine{
+    background-image: url(/image/Horizontal\ -\ LIGHT\ copy.png);
+    background-size: 800px;
+    
+}
+
+
+ 
